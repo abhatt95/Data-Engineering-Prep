@@ -5,6 +5,9 @@
 * First Data Pipeline 
 https://peterdannemann.com/babys-first-data-pipeline/
 
+* Start Data Engineering 
+https://www.startdataengineering.com/
+
 ## SQL
 
 * Window Functions
