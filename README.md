@@ -1,4 +1,4 @@
-# Data-Engineering-Prep
+# Data Science and Engineering Prep
 
 ## Data Science Portfolio tips 
 
