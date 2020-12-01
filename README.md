@@ -1,5 +1,19 @@
 # Data-Engineering-Prep
 
+## Data Science Portfolio tips 
+
+* High level stuff around building portfolio 
+https://www.dataquest.io/blog/build-a-data-science-portfolio/
+
+* Project tips, telling a story 
+https://www.dataquest.io/blog/data-science-portfolio-project/
+
+* End to end ML pipeline 
+https://www.dataquest.io/blog/data-science-portfolio-machine-learning/
+
+* Setting up DS blog 
+https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/
+
 ## Data pipeline 
 
 * First Data Pipeline 
