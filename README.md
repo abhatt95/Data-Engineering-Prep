@@ -27,6 +27,11 @@ https://www.startdataengineering.com/
 * Window Functions
 https://learnsql.com/blog/sql-window-functions-cheat-sheet/
 
+## Visualization 
+
+* Top 10 (self declared )
+https://mode.com/blog/python-data-visualization-libraries/
+
 
 ## inf552 - Private
 
