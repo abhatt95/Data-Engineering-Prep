@@ -32,6 +32,8 @@ https://learnsql.com/blog/sql-window-functions-cheat-sheet/
 * Top 10 (self declared )
 https://mode.com/blog/python-data-visualization-libraries/
 
+* Choosing correct plot 
+https://blog.hubspot.com/marketing/types-of-graphs-for-data-visualization
 
 ## inf552 - Private
 
