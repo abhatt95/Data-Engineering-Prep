@@ -28,10 +28,15 @@ https://www.startdataengineering.com/
 https://learnsql.com/blog/sql-window-functions-cheat-sheet/
 
 
-### inf552 - Private
+## inf552 - Private
 
 * Applied ML questions 
 https://piazza.com/usc/summer2018/inf552/resources
 * Solutions 
 https://github.com/MLforDTIN-18Summer/mlfordtin-18summer-assignment-2-abhatt95/blob/master/question1.ipynb
+
+## Miscellenious 
+
+* Data Science subreddit 
+https://www.reddit.com/r/datascience/
 
