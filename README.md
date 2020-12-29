@@ -19,6 +19,9 @@ https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/
 * First Data Pipeline 
 https://peterdannemann.com/babys-first-data-pipeline/
 
+Seems like the website is no longer valid, here's  the link to it through way back machine
+https://web.archive.org/web/20200920022314/https://peterdannemann.com/babys-first-data-pipeline/
+
 * Start Data Engineering 
 https://www.startdataengineering.com/
 
